@@ -6,9 +6,7 @@ macOS 应用下载
 
 [![Download](https://img.shields.io/github/v/release/zuozizhen/Seater?label=Download&style=for-the-badge)](https://github.com/zuozizhen/Seater/releases/latest)
 
-| 版本 | 下载 | 日期 | 说明 |
-|------|------|------|------|
-| **v1.0.0** (最新) | [Seater-1.0.0.dmg](https://github.com/zuozizhen/Seater/releases/download/v1.0.0/Seater-1.0.0.dmg) | 2026-02-08 | 首次发布 |
+**[⬇️ 下载最新版本](https://github.com/zuozizhen/Seater/releases/latest/download/Seater.dmg)**
 
 ## 安装
 
